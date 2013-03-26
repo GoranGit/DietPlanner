@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DietPlanner</string>
+    <string name="action_settings">Settings</string>
+    <string name="height">Height:</string>
+    <string name="weight">Weight:</string>
+    <string name="gender">Gender:</string>
+    <string name="submit">Submit</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="title_activity_diet_list">DietList</string>
+    <string name="kalori">        Breakfast
+	
+	Banana sandwich made with 2 small slices of wholemeal bread and a small banana.
+	200ml glass of orange juice
+
+        Lunch
+	1 wholemeal roll (45g) filled with 70g tuna (canned in brine) and 10g reduced calorie mayonnaise
+	Mixed salad of 50g lettuce, 50g red or yellow sweet peppers, 10g spring onions.
+
+        Dinner
+	70g Roast Chicken breast (without skin)
+	80g Potatoes, mashed with 30ml semi-skimmed milk
+	60g Broccoli, steamed or boiled
+	50g Carrots, boiled
+	100ml Gravy (made from granules)</string>
+    <string name="kalorii">      Breakfast
+one slice of whole-grain toast with spray butter, one small orange, six almonds, coffee with 1 tbsp. nonfat milk and artificial sweetener
+
+      Lunch
+2 oz. lean turkey, 1 oz. nonfat cheese, two slices whole-grain bread, lettuce and tomato for sandwich, 1 tsp. nonfat mayonnaise, small apple, 8 oz. light yogurt, 16 oz. water
+
+      Dinner
+3 oz. salmon, 1 cup steamed broccoli, 1/2 cup brown rice, 1 cup strawberries, 16 oz. water</string>
+    <string name="kaloriii">      Breakfast
+  1 Cup Skim Milk
+  1 Orange, medium
+  1 Cup Cheerios Cereal
+
+       Lunch
+  Vietnamese-Style Beef and Noodle Broth
+  1 Whole-Wheat Pita Bread, small
+  1 Cup Skim Milk
+  1 Fudgsicle, no sugar added
+      
+       Dinner
+  1/2 Cup Cooked Brown Rice
+  Green and Yellow Beans with Wild Mushrooms
+  Roasted Cod with Warm Tomato-Olive-Caper Tapenade
+  1/2 Banana, small</string>
+    <string name="kaloriiii">      Breakfast
+  Bagel Thin Topped with Peanut Butter and Fruit
+  Thomas 100% Whole Wheat Bagel Thin
+  Tbsp natural peanut butter
+  medium banana, sliced
+  strawberries, sliced*
+      
+      Lunch
+  Open-Faced Chicken-Avocado Melt*
+  1 slice whole-grain bread
+  3 oz grilled chicken breast
+  1/4 avocado, slivered
+  1 oz Cabot 50% reduced-fat cheddar cheese, shredded
+    
+     Dinner
+  Shrimp and Broccoli Pasta Salad
+  4 oz cooked shrimp*
+  1/2 cup cooked whole-wheat elbow macaroni
+  1/2 cup steamed broccoli
+  4 sun-dried tomatoes, halved
+  1 tsp capers
+  1 Tbsp fresh lemon juice
+  2 tsp olive oil
+  2 Tbsp red wine vinegar</string>
+    <string name="title_activity_diet">DietActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
